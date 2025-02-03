@@ -13,11 +13,11 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Measuring%20and%20Improving%20Speech%20Accuracy/gsp758.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Measuring-and-Improving-Speech-Accuracy-GSP758/refs/heads/main/qwiklab_explorers_gsp758.sh
 
-sudo chmod +x gsp758.sh
+sudo chmod +x qwiklab_explorers_gsp758.sh
 
-./gsp758.sh
+./qwiklab_explorers_gsp758.sh
 ```
 
 * Go to `Workbench` from [here](https://console.cloud.google.com/vertex-ai/workbench/user-managed?)
